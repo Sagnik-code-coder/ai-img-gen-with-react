@@ -1,3 +1,19 @@
+To use the api properly you have to add your card it's reduct 5$ atfirst and then refunded to verify the card for free trial..
+Otherwise you will face this type of error for not billing account in Open AI...
+![alt text](image.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,4 +85,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-![alt text](image.png)
