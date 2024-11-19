@@ -17,6 +17,7 @@ const Imagegen = () => {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
+          "Authorization": "your open-ai key",
           "User-Agent":"Chrome"
         },
         body: JSON.stringify({
